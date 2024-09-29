@@ -1,0 +1,43 @@
+﻿<Window x:Class="Linq_ZelfTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Linq_ZelfTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="20px" HorizontalAlignment="Center" Width="250px">
+            <Label Content="Geef een getal"/>
+            <TextBox Name="TxtGetal"/>
+            <Button Content="Verstuur" Click="Button_Click" Margin="10px"/>
+            <Button Content="Verwijder" Margin="10px" Click="Button_Click_1" />
+            <Button Content="Sorteer" Margin="10px" Click="Button_Click_2" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="0" Grid.Column="1" >
+            <Label Content="ingevoerde getallen"/>
+            <ListBox Name="LbGetallen" Margin="20px" Height="150px"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" >
+            <Label Content="resultaat"/>
+            <ListBox Name="lbResultaat" Margin="20px" Height="150px"/>
+        </StackPanel>
+
+        <StackPanel Margin="20px" HorizontalAlignment="Center" Width="250px" Grid.Row="1">
+            <Button Content="Sorteer in groepen" Click="Button_Click_3" Margin="10px"/>
+            <Button Content="Afsluiten" Margin="10px" Click="Button_Click_4"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

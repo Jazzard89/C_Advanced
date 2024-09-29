@@ -1,0 +1,7 @@
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Pokemon\PokemonClassLibrary\bin\Debug\PokemonClassLibrary.dll.config
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Pokemon\PokemonClassLibrary\bin\Debug\PokemonClassLibrary.dll
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Pokemon\PokemonClassLibrary\bin\Debug\PokemonClassLibrary.pdb
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Pokemon\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Pokemon\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Pokemon\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.dll
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Pokemon\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.pdb

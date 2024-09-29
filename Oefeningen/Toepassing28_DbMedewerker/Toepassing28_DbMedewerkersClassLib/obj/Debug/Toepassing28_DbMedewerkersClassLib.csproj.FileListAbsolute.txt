@@ -1,0 +1,6 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing28_DbMedewerker\Toepassing28_DbMedewerkersClassLib\obj\Debug\Toepassing28_DbMedewerkersClassLib.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing28_DbMedewerker\Toepassing28_DbMedewerkersClassLib\obj\Debug\Toepassing28_DbMedewerkersClassLib.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing28_DbMedewerker\Toepassing28_DbMedewerkersClassLib\bin\Debug\Toepassing28_DbMedewerkersClassLib.dll
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing28_DbMedewerker\Toepassing28_DbMedewerkersClassLib\bin\Debug\Toepassing28_DbMedewerkersClassLib.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing28_DbMedewerker\Toepassing28_DbMedewerkersClassLib\obj\Debug\Toepassing28_DbMedewerkersClassLib.dll
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing28_DbMedewerker\Toepassing28_DbMedewerkersClassLib\obj\Debug\Toepassing28_DbMedewerkersClassLib.pdb

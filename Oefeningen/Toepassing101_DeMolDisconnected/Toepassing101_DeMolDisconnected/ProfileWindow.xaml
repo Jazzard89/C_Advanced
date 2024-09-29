@@ -1,0 +1,43 @@
+﻿<Window x:Class="Toepassing101_DeMolDisconnected.ProfileWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toepassing101_DeMolDisconnected"
+        mc:Ignorable="d"
+        Title="ProfileWindow" Height="450" Width="800">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <StackPanel VerticalAlignment="Center">
+            <Label Foreground="white" Content="Naam" FontSize="20px" />
+            <Label Foreground="white" Content="Leeftijd" FontSize="20px" />
+            <Label Foreground="white" Content="Beroep" FontSize="20px" />
+            <Label Foreground="white" Content="Locatie spel" FontSize="20px" />
+            <Label Foreground="white" Content="Jaar van deelname" FontSize="20px" />
+        </StackPanel>
+
+
+
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                <Label Name="LbNaam" Foreground="white" Content="Naam" FontSize="20px" />
+                <Label Name="LbLeeftijd" Foreground="white" Content="Leeftijd" FontSize="20px" />
+                <Label Name="LbBeroep" Foreground="white" Content="Beroep" FontSize="20px" />
+                <Label Name="LbLocatie" Foreground="white" Content="Locatie spel" FontSize="20px" />
+                <Label Name="LbJaar" Foreground="white" Content="Jaar van deelname" FontSize="20px" />
+            </StackPanel>
+
+        </Grid>
+        <Image Name="ImLogo" Source="/DeMol.jpg" Grid.Row="2" HorizontalAlignment="Left"/>
+    </Grid>
+</Window>

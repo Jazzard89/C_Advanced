@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PXLSkillSwap", "PXLSkillSwap\PXLSkillSwap.csproj", "{F7A181FD-E86D-4E5B-84A1-5F4104B7C062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillSwapClassLibrary", "SkillSwapClassLibrary\SkillSwapClassLibrary.csproj", "{7BF69C1A-F58C-4DAB-8962-66282042627E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A181FD-E86D-4E5B-84A1-5F4104B7C062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A181FD-E86D-4E5B-84A1-5F4104B7C062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A181FD-E86D-4E5B-84A1-5F4104B7C062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A181FD-E86D-4E5B-84A1-5F4104B7C062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF69C1A-F58C-4DAB-8962-66282042627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF69C1A-F58C-4DAB-8962-66282042627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF69C1A-F58C-4DAB-8962-66282042627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF69C1A-F58C-4DAB-8962-66282042627E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE1C0FF0-2E51-4CC8-B619-0CFCDB17FECE}
+	EndGlobalSection
+EndGlobal

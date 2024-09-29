@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toepassing11_KlasseHuis", "Toepassing11_KlasseHuis\Toepassing11_KlasseHuis.csproj", "{4EDA8E21-5961-43D1-BBBC-48143AE2FEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDA8E21-5961-43D1-BBBC-48143AE2FEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDA8E21-5961-43D1-BBBC-48143AE2FEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDA8E21-5961-43D1-BBBC-48143AE2FEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDA8E21-5961-43D1-BBBC-48143AE2FEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC8F63D-291C-4888-BCDF-D7B6CB308E27}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+﻿<Window x:Class="T1_EmailBestand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:T1_EmailBestand"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FontFamily="Consolas">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Column="0" Margin="20px" Name="TxtResultaat"/>
+
+        <StackPanel Grid.Column="1" Margin="20px">
+            <Button Content="Inlezen" Height="30px" Margin="10px" Width="120px" HorizontalAlignment="Left" Click="Inlezen_Click"/>
+            <Button Content="Inlezen/Dialoog Venster" Height="30px" Margin="10px" Width="120px" HorizontalAlignment="Left" Click="Button_Click"/>
+            <Button Content="Inlezen/Dictionary" Height="30px" Margin="10px" Width="120px" HorizontalAlignment="Left" Click="Button_Click_1"/>
+            <Button Content="Wegschrijven/Disctionary" Height="30px" Margin="10px" Width="120px" HorizontalAlignment="Left" Click="Button_Click_2"/>
+            <Button Content="Wis data" Height="30px" Margin="10px" Width="120px" HorizontalAlignment="Left" Click="Button_Click_3" />
+            <Label Content="Naam" FontStyle="Italic" FontSize="10px"/>
+            <TextBox Width="120px" HorizontalAlignment="Left" Name="TxtNaam"/>
+            <DockPanel>
+                <StackPanel>
+                    <Label Content="Email adres" FontStyle="Italic" FontSize="10px"/>
+                    <TextBox Width="120px" HorizontalAlignment="Left" Name="TxtEmail"/>
+                </StackPanel>
+                <Button Content="Toevoegen" Height="30px" Margin="10px" Width="120px" Click="Button_Click_4"/>
+            </DockPanel>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

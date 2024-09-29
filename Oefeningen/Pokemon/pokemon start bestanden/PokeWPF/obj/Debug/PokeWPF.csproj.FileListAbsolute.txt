@@ -1,0 +1,48 @@
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\images\pokemon\25.png
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokeWPF.exe.config
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokeWPF.exe
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokeWPF.pdb
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokemonClassLibrary.dll
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokemonClassLibrary.pdb
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokemonClassLibrary.dll.config
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.AssemblyReference.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokemonWindow.g.cs
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\App.g.cs
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF_Content.g.cs
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF_MarkupCompile.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF_MarkupCompile.lref
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\MainWindow.baml
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokemonWindow.baml
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.g.resources
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.Properties.Resources.resources
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.GenerateResource.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.CoreCompileInputs.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.CopyComplete
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.exe
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.pdb
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\images\pokemon\25.png
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokeWPF.exe.config
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokeWPF.exe
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokeWPF.pdb
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokemonClassLibrary.dll
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokemonClassLibrary.pdb
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\bin\Debug\PokemonClassLibrary.dll.config
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.AssemblyReference.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokemonWindow.g.cs
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\App.g.cs
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF_Content.g.cs
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF_MarkupCompile.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF_MarkupCompile.lref
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\MainWindow.baml
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokemonWindow.baml
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.g.resources
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.Properties.Resources.resources
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.GenerateResource.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.CoreCompileInputs.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.csproj.CopyComplete
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.exe
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokeWPF\obj\Debug\PokeWPF.pdb

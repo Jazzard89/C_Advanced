@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KindomSimClassLibrary.DataAcces.SpelerData">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAIAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>DataAcces\SpelerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KindomSimClassLibrary.DataAcces.ScoreData">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAABAAAgAAAAAAABAAAAABAAAAAAQAAAA=</HashCode>
+      <FileName>DataAcces\ScoreData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KindomSimClassLibrary.Entities.Event">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAAggAAA=</HashCode>
+      <FileName>Entities\Event.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KindomSimClassLibrary.Entities.BeslissingEvent">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAgAAAAAAAAAAAAAAAAACAAAAAggAAg=</HashCode>
+      <FileName>Entities\BeslissingEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KindomSimClassLibrary.Entities.ProefEvent">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAQAAAQAAAAAAAggAAA=</HashCode>
+      <FileName>Entities\ProefEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KindomSimClassLibrary.Entities.Speler">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAGAAAAAAAAAQCAAAAABQAAEAAAAAABAAQAEAAAAEA=</HashCode>
+      <FileName>Entities\Speler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KindomSimClassLibrary.DataAcces.EventData">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAIAQAAAAAAAA=</HashCode>
+      <FileName>DataAcces\EventData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="KindomSimClassLibrary.Entities.IKeuze">
+    <Position X="3" Y="4.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAggAAA=</HashCode>
+      <FileName>Entities\IKeuze.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

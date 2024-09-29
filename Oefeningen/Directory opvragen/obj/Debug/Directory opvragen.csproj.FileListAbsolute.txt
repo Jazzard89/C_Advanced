@@ -1,0 +1,54 @@
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\bin\Debug\Directory opvragen.exe.config
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\bin\Debug\Directory opvragen.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\bin\Debug\Directory opvragen.pdb
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen_MarkupCompile.lref
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\MainWindow.baml
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.g.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory_opvragen.Properties.Resources.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.pdb
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Uitlezer.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Directory opvragen\obj\Debug\Uitlezer.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\bin\Debug\Directory opvragen.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\bin\Debug\Directory opvragen.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\bin\Debug\Directory opvragen.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Uitlezer.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Uitlezer.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory_opvragen.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.pdb
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\bin\Debug\Directory opvragen.exe.config
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\bin\Debug\Directory opvragen.exe
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\bin\Debug\Directory opvragen.pdb
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Uitlezer.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen_MarkupCompile.lref
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\MainWindow.baml
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Uitlezer.baml
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.g.resources
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory_opvragen.Properties.Resources.resources
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.exe
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Directory opvragen\obj\Debug\Directory opvragen.pdb

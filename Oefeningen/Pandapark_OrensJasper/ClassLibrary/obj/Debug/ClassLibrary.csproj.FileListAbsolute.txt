@@ -1,0 +1,10 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Pandapark_OrensJasper\ClassLibrary\obj\Debug\ClassLibrary.pdb

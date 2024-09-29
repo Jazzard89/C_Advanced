@@ -1,0 +1,11 @@
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\bin\Debug\PokemonClassLibrary.dll.config
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\bin\Debug\PokemonClassLibrary.dll
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\bin\Debug\PokemonClassLibrary.pdb
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.csproj.AssemblyReference.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.dll
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.pdb
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.csproj.AssemblyReference.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.dll
+C:\Users\12101367\OneDrive - PXL\Documenten\.Tweede jaar\Semester 2\C# Advanced\4. Sander\Oefeningen\Bijlagen\PokemonClassLibrary-Skelet\PokemonClassLibrary\obj\Debug\PokemonClassLibrary.pdb

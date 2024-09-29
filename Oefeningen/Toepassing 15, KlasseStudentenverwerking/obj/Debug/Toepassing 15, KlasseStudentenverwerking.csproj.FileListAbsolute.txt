@@ -1,0 +1,8 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 15, KlasseStudentenverwerking\obj\Debug\Toepassing 15, KlasseStudentenverwerking.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 15, KlasseStudentenverwerking\obj\Debug\Toepassing 15, KlasseStudentenverwerking.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 15, KlasseStudentenverwerking\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 15, KlasseStudentenverwerking\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 15, KlasseStudentenverwerking\obj\Debug\Toepassing 15, KlasseStudentenverwerking_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 15, KlasseStudentenverwerking\obj\Debug\Toepassing 15, KlasseStudentenverwerking_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 15, KlasseStudentenverwerking\obj\Debug\Toepassing 15, KlasseStudentenverwerking.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 15, KlasseStudentenverwerking\obj\Debug\Toepassing 15, KlasseStudentenverwerking.pdb

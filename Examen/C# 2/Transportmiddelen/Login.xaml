@@ -1,0 +1,35 @@
+﻿<Window x:Class="Transportmiddelen.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Transportmiddelen"
+        mc:Ignorable="d"
+        Title="Login" Height="350" Width="800">
+    <Grid Background="Chocolate">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200px"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="User:" FontSize="40px"  VerticalAlignment="Center" Grid.Row="0" Grid.Column="0"/>
+        <TextBox Name="TxtUserName" Width="500px"  Margin="10px" FontSize="40px" Grid.Row="0" Grid.Column="1" />
+
+            <Label Content="Password:" FontSize="40px" VerticalAlignment="Center" Grid.Row="1"/>
+        <PasswordBox  FontSize="40px" Name="PwPassword" Width="500px" Margin="10px" Grid.Row="1" Grid.Column="1"/>
+
+        
+            <Label Name="LbMelding" Foreground="White" FontSize="40px" Content="Ongeldige login!" Visibility="Hidden" Grid.Row="2"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Right" Margin="10px">
+            <Button Content="Ok" Name="BtnOk" Margin="20px" FontSize="40px" Background="Cornsilk" Click="BtnOk_Click" />
+            <Button Content="Annuleren"  FontSize="40px" Margin="20px" Background="Cornsilk" Click="Annuleren_Click" KeyDown="Button_KeyDown" />
+        </StackPanel>
+
+
+    </Grid>
+</Window>

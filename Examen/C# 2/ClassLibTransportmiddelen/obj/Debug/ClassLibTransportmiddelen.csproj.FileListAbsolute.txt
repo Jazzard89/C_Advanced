@@ -1,0 +1,6 @@
+C:\Users\J\Desktop\examen\C# 2\ClassLibTransportmiddelen\bin\Debug\ClassLibTransportmiddelen.dll
+C:\Users\J\Desktop\examen\C# 2\ClassLibTransportmiddelen\bin\Debug\ClassLibTransportmiddelen.pdb
+C:\Users\J\Desktop\examen\C# 2\ClassLibTransportmiddelen\obj\Debug\ClassLibTransportmiddelen.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\examen\C# 2\ClassLibTransportmiddelen\obj\Debug\ClassLibTransportmiddelen.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\examen\C# 2\ClassLibTransportmiddelen\obj\Debug\ClassLibTransportmiddelen.dll
+C:\Users\J\Desktop\examen\C# 2\ClassLibTransportmiddelen\obj\Debug\ClassLibTransportmiddelen.pdb

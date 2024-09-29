@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toepassing28_DbMedewerker", "Toepassing28_DbMedewerker\Toepassing28_DbMedewerker.csproj", "{2DE30714-6E59-4725-BB07-B98A6C5A1E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toepassing28_DbMedewerkersClassLib", "Toepassing28_DbMedewerkersClassLib\Toepassing28_DbMedewerkersClassLib.csproj", "{100D5782-EADB-4ABF-A3A0-AC900CC7419E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE30714-6E59-4725-BB07-B98A6C5A1E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE30714-6E59-4725-BB07-B98A6C5A1E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE30714-6E59-4725-BB07-B98A6C5A1E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE30714-6E59-4725-BB07-B98A6C5A1E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100D5782-EADB-4ABF-A3A0-AC900CC7419E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100D5782-EADB-4ABF-A3A0-AC900CC7419E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100D5782-EADB-4ABF-A3A0-AC900CC7419E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100D5782-EADB-4ABF-A3A0-AC900CC7419E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {996841D9-26C9-441A-9770-15CB2807598B}
+	EndGlobalSection
+EndGlobal

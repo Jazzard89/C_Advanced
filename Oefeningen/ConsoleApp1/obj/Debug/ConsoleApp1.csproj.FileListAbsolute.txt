@@ -1,0 +1,8 @@
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

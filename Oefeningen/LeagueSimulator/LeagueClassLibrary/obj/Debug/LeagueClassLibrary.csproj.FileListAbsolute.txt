@@ -1,0 +1,6 @@
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\LeagueSimulator\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\LeagueSimulator\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\LeagueSimulator\LeagueClassLibrary\bin\Debug\LeagueClassLibrary.dll
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\LeagueSimulator\LeagueClassLibrary\bin\Debug\LeagueClassLibrary.pdb
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\LeagueSimulator\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.dll
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\LeagueSimulator\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.pdb

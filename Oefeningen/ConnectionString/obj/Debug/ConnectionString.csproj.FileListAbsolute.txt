@@ -1,0 +1,16 @@
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\bin\Debug\ConnectionString.exe.config
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\bin\Debug\ConnectionString.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\bin\Debug\ConnectionString.pdb
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString_MarkupCompile.lref
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\MainWindow.baml
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString.g.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString.Properties.Resources.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\ConnectionString\obj\Debug\ConnectionString.pdb

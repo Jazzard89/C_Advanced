@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PokemonClassLibrary.CaugthPokemonData">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QIAAAAAAAAAAAAAAAAAESAAAAAIEAACAACAAAAAAAAA=</HashCode>
+      <FileName>CaugthPokemonData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonClassLibrary.DataBewerking">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAACIAAACAAAAAg=</HashCode>
+      <FileName>DataBewerking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonClassLibrary.PokemonData">
+    <Position X="6.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAEAAAAAIAAAAAAAAAAAAAAQAQACAAAAAAWAAA=</HashCode>
+      <FileName>PokemonData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonClassLibrary.TrainerData">
+    <Position X="9" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEAAAAAAAAAAAACAAQAAgQCIEgAAAAAAAAAAE=</HashCode>
+      <FileName>TrainerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

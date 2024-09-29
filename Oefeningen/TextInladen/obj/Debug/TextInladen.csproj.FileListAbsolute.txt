@@ -1,0 +1,8 @@
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\TextInladen\bin\Debug\TextInladen.exe.config
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\TextInladen\bin\Debug\TextInladen.exe
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\TextInladen\bin\Debug\TextInladen.pdb
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\TextInladen\obj\Debug\TextInladen.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\TextInladen\obj\Debug\TextInladen.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\TextInladen\obj\Debug\TextInladen.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\TextInladen\obj\Debug\TextInladen.exe
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\TextInladen\obj\Debug\TextInladen.pdb

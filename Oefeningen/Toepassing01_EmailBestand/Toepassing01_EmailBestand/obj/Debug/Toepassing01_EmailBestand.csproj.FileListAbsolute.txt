@@ -1,0 +1,16 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\bin\Debug\Toepassing01_EmailBestand.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\bin\Debug\Toepassing01_EmailBestand.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\bin\Debug\Toepassing01_EmailBestand.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing01_EmailBestand\Toepassing01_EmailBestand\obj\Debug\Toepassing01_EmailBestand.pdb

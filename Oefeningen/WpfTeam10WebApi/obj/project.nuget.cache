@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TwKOLLkebh30jINVfv0xLGRLLT0y5HXXj5qfCDQMX47afpUmz9HAeDmu4Ljk1jUD5v/6RCpitlXBn0ch5jk2Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\J\\Desktop\\C#\\Advanced\\Oefeningen\\WpfTeam10WebApi\\WpfTeam10WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\J\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

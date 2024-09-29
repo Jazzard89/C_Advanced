@@ -1,0 +1,3 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Polymorphisme\obj\Debug\Polymorphisme.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Polymorphisme\obj\Debug\Polymorphisme.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Polymorphisme\obj\Debug\Polymorphisme.csproj.CoreCompileInputs.cache

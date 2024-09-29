@@ -1,0 +1,109 @@
+﻿<Window x:Class="KingdomSimWPF.SpelWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KingdomSimWPF"
+        mc:Ignorable="d"
+        Title="Kingdom Sim" Height="450" Width="800">
+    <Grid Background="DarkGoldenrod">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="2" Margin="25 20"
+                Name="BtnLaadSpel" Click="BtnLaadSpel_Click">
+            LAAD SPEL
+        </Button>
+        <Button Grid.Row="2" Grid.Column="5" Margin="25 20"
+                Name="BtnGeschiedenis" Click="BtnGeschiedenis_Click">
+            Geschiedenis
+        </Button>
+
+        <Border Grid.Row="1" Margin="20" 
+                Background="Beige" BorderBrush="Silver" BorderThickness="3" CornerRadius="10,10,5,5"
+                MouseEnter="Brd_MouseEnter" MouseLeave="Brd_MouseLeave"
+                MouseDown="BrdVeld1_MouseDown" Name="Veld1">
+            <!-- VELD 1 -->
+            <TextBlock Name="TxtVeld1" Margin="5" FontSize="20"
+                   HorizontalAlignment="Center" VerticalAlignment="Center" 
+                   TextWrapping="Wrap">
+                Veld 1: Ja - piety
+            </TextBlock>
+        </Border>
+        <Border Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="4" Margin="20" 
+                Background="Beige" BorderBrush="Silver" BorderThickness="3" CornerRadius="10,10,5,5">
+            <!-- VELD CENTER -->
+            <DockPanel>
+                <TextBlock Name="TxtEventBeschrijving" Margin="5" DockPanel.Dock="Bottom"
+                   HorizontalAlignment="Center" TextWrapping="Wrap" FontSize="14">
+                    Center text: Refugees are at your walls and are asking shelter. Do you uphold your divine vows and let them inside, or do you leave them outside and save your food for your own citizens.
+                </TextBlock>
+                <TextBlock Name="TxtEventNaam" Margin="5" DockPanel.Dock="Top"
+                           HorizontalAlignment="Center" FontSize="20"
+                           TextWrapping="Wrap">
+                    Royal Event
+                </TextBlock>
+                <!-- Zorg er voor dat de afbeelding wordt getoond -->
+                <Image Name="ImgEvent" Source="/images/crown.png"></Image>
+            </DockPanel>
+        </Border>
+        <Border Grid.Row="1" Grid.Column="5" Margin="20" 
+                Background="Beige" BorderBrush="Silver" BorderThickness="3" CornerRadius="10,10,5,5"
+                MouseEnter="Brd_MouseEnter" MouseLeave="Brd_MouseLeave"
+                MouseDown="BrdVeld2_MouseDown" Name="Veld2">
+            <!-- VELD 2 -->
+            <TextBlock Name="TxtVeld2" Margin="5" FontSize="20"
+                   HorizontalAlignment="Center" VerticalAlignment="Center"
+                   TextWrapping="Wrap">
+                Veld 2: Nee - economy
+            </TextBlock>
+        </Border>
+
+        <Viewbox Margin="15" HorizontalAlignment="Left">
+            <TextBlock Name="TxtDag" FontFamily="Edwardian Script ITC" Foreground="White">Dag 1</TextBlock>
+        </Viewbox>
+
+        <!--#region SKELET: Zorg er voor dat images werken -->
+        <Viewbox Grid.ColumnSpan="6" Margin="10">
+            <TextBlock HorizontalAlignment="Center" FontFamily="Edwardian Script ITC" Foreground="White"> 
+                Kingdom Sim
+            </TextBlock>
+        </Viewbox>
+        <Image Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" Opacity="0.5"
+               Source="/images/cross.png" Margin="5"
+               Name="ImgMaxPiety"></Image>
+        <Image Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" Stretch="UniformToFill" Height="10"
+               Source="/images/cross.png" Margin="5"
+               Name="ImgValuePiety"></Image>
+        <Image Grid.Row="2" Grid.Column="2" VerticalAlignment="Top" Opacity="0.5"
+               Source="/images/person.png" Margin="5"
+               Name="ImgMaxHappiness"></Image>
+        <Image Grid.Row="2" Grid.Column="2" VerticalAlignment="Top" Stretch="UniformToFill" Height="10"
+               Source="/images/person.png" Margin="5"
+               Name="ImgValueHappiness"></Image>
+        <Image Grid.Row="2" Grid.Column="3" VerticalAlignment="Top" Opacity="0.5"
+               Source="/images/sword.png" Margin="5"
+               Name="ImgMaxMilitary"></Image>
+        <Image Grid.Row="2" Grid.Column="3" VerticalAlignment="Top" Stretch="UniformToFill" Height="10"
+               Source="/images/sword.png" Margin="5"
+               Name="ImgValueMilitary"></Image>
+        <Image Grid.Row="2" Grid.Column="4" VerticalAlignment="Top" Opacity="0.5"
+               Source="/images/coins.png" Margin="5"
+               Name="ImgMaxEconomy"></Image>
+        <Image Grid.Row="2" Grid.Column="4" VerticalAlignment="Top" Stretch="UniformToFill" Height="10"
+               Source="/images/coins.png" Margin="5"
+               Name="ImgValueEconomy"></Image>
+        <!--#endregion-->
+    </Grid>
+</Window>

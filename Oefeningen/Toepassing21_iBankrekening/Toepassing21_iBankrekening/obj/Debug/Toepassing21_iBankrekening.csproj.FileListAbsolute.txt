@@ -1,0 +1,16 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\bin\Debug\Toepassing21_iBankrekening.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\bin\Debug\Toepassing21_iBankrekening.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\bin\Debug\Toepassing21_iBankrekening.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing21_iBankrekening\Toepassing21_iBankrekening\obj\Debug\Toepassing21_iBankrekening.pdb

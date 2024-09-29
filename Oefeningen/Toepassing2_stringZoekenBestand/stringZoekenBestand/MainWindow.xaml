@@ -1,0 +1,34 @@
+﻿<Window x:Class="stringZoekenBestand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:stringZoekenBestand"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="40px">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel>
+            <Label Content="Bestand"/>
+            <TextBox Name="TxtBestand" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <Label Content="String"/>
+            <TextBox Name="TxtString" />
+        </StackPanel>
+
+        <TextBox Name="TxtResultaat" Grid.Row="2"/>
+
+        <DockPanel Grid.Row="3" Margin="10px" HorizontalAlignment="Right">
+        <Button Name="BtnBladeren" Content="Bladeren" Click="BtnBladeren_Click" Width="100px" Margin="0 0 10px 0"/>
+        <Button Name="BtnZoeken" Content="Zoeken" Click="BtnZoeken_Click" Width="100px"/>
+        </DockPanel>
+    </Grid>
+</Window>

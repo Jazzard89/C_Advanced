@@ -1,0 +1,16 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\bin\Debug\Toepassing19_iList.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\bin\Debug\Toepassing19_iList.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\bin\Debug\Toepassing19_iList.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing19_iList\Toepassing19_iList\obj\Debug\Toepassing19_iList.pdb

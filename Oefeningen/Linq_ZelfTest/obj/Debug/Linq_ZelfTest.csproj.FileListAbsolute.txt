@@ -1,0 +1,16 @@
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\bin\Debug\Linq_ZelfTest.exe.config
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\bin\Debug\Linq_ZelfTest.exe
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\bin\Debug\Linq_ZelfTest.pdb
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest_MarkupCompile.lref
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\MainWindow.baml
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest.g.resources
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest.Properties.Resources.resources
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest.exe
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen\Linq_ZelfTest\obj\Debug\Linq_ZelfTest.pdb

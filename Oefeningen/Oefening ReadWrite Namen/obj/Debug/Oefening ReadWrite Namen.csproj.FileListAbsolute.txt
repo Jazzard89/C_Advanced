@@ -1,0 +1,16 @@
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\bin\Debug\Oefening ReadWrite Namen.exe.config
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\bin\Debug\Oefening ReadWrite Namen.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\bin\Debug\Oefening ReadWrite Namen.pdb
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening ReadWrite Namen.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening ReadWrite Namen.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening ReadWrite Namen_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening ReadWrite Namen_MarkupCompile.lref
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\MainWindow.baml
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening ReadWrite Namen.g.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening_ReadWrite_Namen.Properties.Resources.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening ReadWrite Namen.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening ReadWrite Namen.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening ReadWrite Namen.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Oefening ReadWrite Namen\obj\Debug\Oefening ReadWrite Namen.pdb

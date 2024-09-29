@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <StudId>1</StudId>
+    <Name>Kristof Palmaers</Name>
+    <GbDatum>1980-08-17T00:00:00+02:00</GbDatum>
+    <Telefoon>011775100</Telefoon>
+  </Table1>
+  <Table1>
+    <StudId>2</StudId>
+    <Name>Paul Dox</Name>
+    <GbDatum>1972-03-17T00:00:00+01:00</GbDatum>
+    <Telefoon>011775101</Telefoon>
+  </Table1>
+  <Table1>
+    <StudId>3</StudId>
+    <Name>Patricia Briers</Name>
+    <GbDatum>1971-10-17T00:00:00+02:00</GbDatum>
+    <Telefoon>011775102</Telefoon>
+  </Table1>
+</NewDataSet>

@@ -1,0 +1,12 @@
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\bin\Debug\net6.0\WpfTeam10Library.deps.json
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\bin\Debug\net6.0\WpfTeam10Library.dll
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\bin\Debug\net6.0\WpfTeam10Library.pdb
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\obj\Debug\net6.0\WpfTeam10Library.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\obj\Debug\net6.0\WpfTeam10Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\obj\Debug\net6.0\WpfTeam10Library.AssemblyInfoInputs.cache
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\obj\Debug\net6.0\WpfTeam10Library.AssemblyInfo.cs
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\obj\Debug\net6.0\WpfTeam10Library.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\obj\Debug\net6.0\WpfTeam10Library.dll
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\obj\Debug\net6.0\refint\WpfTeam10Library.dll
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\obj\Debug\net6.0\WpfTeam10Library.pdb
+C:\Users\J\Desktop\C#\Advanced\Oefeningen\WpfTeam10Library\obj\Debug\net6.0\ref\WpfTeam10Library.dll

@@ -1,0 +1,8 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 5, Woordenboek\Toepassing 5, Woordenboek\obj\Debug\Toepassing 5, Woordenboek.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 5, Woordenboek\Toepassing 5, Woordenboek\obj\Debug\Toepassing 5, Woordenboek.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 5, Woordenboek\Toepassing 5, Woordenboek\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 5, Woordenboek\Toepassing 5, Woordenboek\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 5, Woordenboek\Toepassing 5, Woordenboek\obj\Debug\Toepassing 5, Woordenboek_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 5, Woordenboek\Toepassing 5, Woordenboek\obj\Debug\Toepassing 5, Woordenboek_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 5, Woordenboek\Toepassing 5, Woordenboek\obj\Debug\Toepassing 5, Woordenboek.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 5, Woordenboek\Toepassing 5, Woordenboek\obj\Debug\Toepassing 5, Woordenboek.pdb

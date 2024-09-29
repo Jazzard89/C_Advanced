@@ -1,0 +1,34 @@
+﻿<Window x:Class="PXLSkillSwap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PXLSkillSwap"
+        mc:Ignorable="d"
+        Title="PXL Skill Swap" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <DataGrid Margin="20" Name="DgdSkillSwap">
+            
+        </DataGrid>
+        <Image Grid.Column="1" Grid.RowSpan="2" Source="images/pxlskillswap.png" Margin="5"></Image>
+        <WrapPanel Grid.Row="1" Margin="20">
+            <Button Name="BtnShowWorkshops" Click="BtnShowWorkshops_Click" Margin="10">Show Workshops</Button>
+            <Button Name="BtnShowCategories" Click="BtnShowCategories_Click" Margin="10">Show Categories</Button>
+            <Button Name="BtnShowMusic" Click="BtnShowMusic_Click" Margin="10">Show Music Workshops</Button>
+            <Button Name="BtnShowPast14" Click="BtnShowPast14_Click" Margin="10">Show Workshops Past 14:00</Button>
+            <Button Name="BtnShowBuildingA" Click="BtnShowBuildingA_Click" Margin="10">Show Building A</Button>
+            <Button Name="BtnShowDrones" Click="BtnShowDrones_Click" Margin="10">Show Drones</Button>
+            <Button Name="BtnShowListOfWorkshopNames" Click="BtnShowListOfWorkshopNames_Click" Margin="10">Show Only Workshop Names</Button>
+            <Button Name="BtnShowListOfWorkshopNamesAndCategoryNames" Click="BtnShowListOfWorkshopNamesAndCategoryNames_Click" Margin="10">Show Only Workshop Names With Category</Button>
+
+        </WrapPanel>
+    </Grid>
+</Window>

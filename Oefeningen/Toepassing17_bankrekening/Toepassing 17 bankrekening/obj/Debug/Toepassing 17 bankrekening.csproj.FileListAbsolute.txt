@@ -1,0 +1,64 @@
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.AssemblyReference.cache
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\MainWindow.g.cs
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\App.g.cs
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening_MarkupCompile.cache
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening_MarkupCompile.lref
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.exe.config
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.exe
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.pdb
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\MainWindow.baml
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.g.resources
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing_17_bankrekening.Properties.Resources.resources
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.GenerateResource.cache
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.exe
+C:\Users\ruben\source\repos\semester2\oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.pdb
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.exe.config
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.pdb
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening_MarkupCompile.lref
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\MainWindow.baml
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.g.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing_17_bankrekening.Properties.Resources.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing_17_bankrekening.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing 17 bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\bin\Debug\Toepassing 17 bankrekening.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing_17_bankrekening.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing17_bankrekening\Toepassing 17 bankrekening\obj\Debug\Toepassing 17 bankrekening.pdb

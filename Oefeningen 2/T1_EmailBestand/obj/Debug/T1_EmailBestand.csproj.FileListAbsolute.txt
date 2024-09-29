@@ -1,0 +1,16 @@
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand_MarkupCompile.lref
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\bin\Debug\T1_EmailBestand.exe.config
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\bin\Debug\T1_EmailBestand.exe
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\bin\Debug\T1_EmailBestand.pdb
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\MainWindow.baml
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand.g.resources
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand.Properties.Resources.resources
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand.exe
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1_EmailBestand\obj\Debug\T1_EmailBestand.pdb

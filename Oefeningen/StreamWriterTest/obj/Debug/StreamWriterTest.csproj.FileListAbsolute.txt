@@ -1,0 +1,8 @@
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\StreamWriterTest\bin\Debug\StreamWriterTest.exe.config
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\StreamWriterTest\bin\Debug\StreamWriterTest.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\StreamWriterTest\bin\Debug\StreamWriterTest.pdb
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\StreamWriterTest\obj\Debug\StreamWriterTest.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\StreamWriterTest\obj\Debug\StreamWriterTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\StreamWriterTest\obj\Debug\StreamWriterTest.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\StreamWriterTest\obj\Debug\StreamWriterTest.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\StreamWriterTest\obj\Debug\StreamWriterTest.pdb

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibTransportmiddelen.Entities.Voertuig">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAEAAAAAAAAIAAAAAAAAQAAIEAAAAA=</HashCode>
+      <FileName>Entities\Voertuig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibTransportmiddelen.Entities.Auto">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEAAAAAAIEAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Entities\Auto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibTransportmiddelen.Entities.Fiets">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAEAAAAAEAEAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Entities\Fiets.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibTransportmiddelen.DataAccess.OngeldigBestand">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess\OngeldigBestand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibTransportmiddelen.DataAccess.VoertuigData">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAQBAAAEEAAAAAAAAAACEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess\VoertuigData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClassLibTransportmiddelen.Entities.IVerkoop">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\IVerkoop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

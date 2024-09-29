@@ -1,0 +1,6 @@
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1;EmailBestand\obj\Debug\T1;EmailBestand.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1;EmailBestand\obj\Debug\T1;EmailBestand.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1;EmailBestand\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1;EmailBestand\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1;EmailBestand\obj\Debug\T1;EmailBestand_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\T1;EmailBestand\obj\Debug\T1;EmailBestand_MarkupCompile.lref

@@ -1,0 +1,16 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\bin\Debug\Toepassing07_KlasseBerkening.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\bin\Debug\Toepassing07_KlasseBerkening.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\bin\Debug\Toepassing07_KlasseBerkening.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing07_KlasseBerkening\Toepassing07_KlasseBerkening\obj\Debug\Toepassing07_KlasseBerkening.pdb

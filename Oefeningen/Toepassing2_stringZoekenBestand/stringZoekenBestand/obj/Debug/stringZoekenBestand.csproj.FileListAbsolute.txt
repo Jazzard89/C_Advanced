@@ -1,0 +1,16 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\bin\Debug\stringZoekenBestand.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\bin\Debug\stringZoekenBestand.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\bin\Debug\stringZoekenBestand.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\stringZoekenBestand\stringZoekenBestand\obj\Debug\stringZoekenBestand.pdb

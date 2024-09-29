@@ -1,0 +1,16 @@
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\bin\Debug\Tabs.exe.config
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\bin\Debug\Tabs.exe
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\bin\Debug\Tabs.pdb
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs_MarkupCompile.lref
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\MainWindow.baml
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs.g.resources
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs.Properties.Resources.resources
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs.exe
+C:\Users\J\Desktop\Vakken\C#\C\Advanced\Oefeningen 2\Tabs\obj\Debug\Tabs.pdb

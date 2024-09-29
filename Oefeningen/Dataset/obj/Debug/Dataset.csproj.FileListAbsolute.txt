@@ -1,0 +1,16 @@
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\bin\Debug\Dataset.exe.config
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\bin\Debug\Dataset.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\bin\Debug\Dataset.pdb
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset.csproj.SuggestedBindingRedirects.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\MainWindow.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\App.g.cs
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset_MarkupCompile.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset_MarkupCompile.lref
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\MainWindow.baml
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset.g.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset.Properties.Resources.resources
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset.exe
+C:\Users\J\Desktop\Vakken\C#\Advanced\Oefeningen\Dataset\obj\Debug\Dataset.pdb

@@ -1,0 +1,24 @@
+﻿<Window x:Class="Toepassing23_DatasetMedewerkers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toepassing23_DatasetMedewerkers"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <WrapPanel VerticalAlignment="Center">
+            <Button Name="BtnToevoegen" Click="BtnToevoegen_Click" Content="Medewerkers Toevoegen" Padding="10px" Margin="10px"/>
+            <Button Name="BtnMedTabel" Click="BtnMedTabel_Click" Content="Tabel Medewerkers" Padding="10px" Margin="10px"/>
+        </WrapPanel>
+
+
+
+        <DataGrid Name="DgDatagrid" Grid.Row="1" Margin="25px" />
+    </Grid>
+</Window>

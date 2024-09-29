@@ -1,0 +1,16 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\bin\Debug\Toepassing23_DatasetMedewerkers.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\bin\Debug\Toepassing23_DatasetMedewerkers.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\bin\Debug\Toepassing23_DatasetMedewerkers.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing23_DatasetMedewerkers\Toepassing23_DatasetMedewerkers\obj\Debug\Toepassing23_DatasetMedewerkers.pdb

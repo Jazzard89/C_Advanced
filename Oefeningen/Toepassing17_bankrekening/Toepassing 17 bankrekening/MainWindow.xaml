@@ -1,0 +1,41 @@
+﻿<Window x:Class="Toepassing_17_bankrekening.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toepassing_17_bankrekening"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0">
+            <Label Content="Storting (+)/Opname(-)"/>
+            <TextBox Name="TxtBedrag" Text="500"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Label Name="TxtZRInfo" Content="Storting (+)/Opname(-)"/>
+            <Label Name="ZRSaldo"/>
+            <Label Name="ZRRente"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <Label Name="TxtSRInfo" Content="Storting (+)/Opname(-)"/>
+            <Label Name="SRSaldo"/>
+            <Label Name="SRRente"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="1">
+            <Button Name="BtnSaldo"  Content="Saldo" Click="BtnSaldo_Click"/>
+            <Button Name="BtnRente" Content="Rente" Click="BtnRente_Click"/>
+            <Button Name="BtnSluiten" Content="Afsluiten" Click="BtnSluiten_Click"/>
+        </StackPanel>
+        
+        
+    </Grid>
+</Window>

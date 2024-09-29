@@ -1,0 +1,16 @@
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\bin\Debug\Toepassing20_Hondenras.exe.config
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\bin\Debug\Toepassing20_Hondenras.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\bin\Debug\Toepassing20_Hondenras.pdb
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras.csproj.SuggestedBindingRedirects.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\MainWindow.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\App.g.cs
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras_MarkupCompile.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras_MarkupCompile.lref
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\MainWindow.baml
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras.g.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras.Properties.Resources.resources
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras.csproj.GenerateResource.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras.exe
+D:\JASPER\WORK\Opleidingen\PXL\C\Advanced\Oefeningen\Toepassing20_Hondenras\Toepassing20_Hondenras\obj\Debug\Toepassing20_Hondenras.pdb
